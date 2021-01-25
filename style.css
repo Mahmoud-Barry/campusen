@@ -1,0 +1,131 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    color: #575d5e;
+}
+p{
+    font-size: 13px;
+}
+.logo-bg{
+    background-color: white;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    margin-top: -8px;
+    padding-bottom: 2px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: -1px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    overflow: hidden;
+    background-color: #575d5e;
+    border-bottom: 2px solid #2b7dbc;
+  }
+  
+ nav ul li {
+    float: left;
+  }
+  
+  nav ul li a {
+    display: block;
+    color: white;
+    padding: 14px 19px 14px 18px;
+    text-decoration: none;
+    border-left: 1px solid white;
+    font-size: 13px;
+  }
+  
+  li a:hover {
+    background-color:white;
+    color: #2b7dbc;
+    border: 1px solid #2b7dbc;
+  }
+  
+.container{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 73%;
+    padding-left: 17px;
+    padding-right: 6px;
+    padding-top: 25px;
+    border: 1px solid rgb(221, 219, 219);
+    margin-top: -13px;
+}
+
+.info{
+    display: flex;  
+}
+.info p{
+    font-size: 14px;
+    text-align: justify;
+}
+.info span{
+    font-size: 20px;
+    font-family: 'PT Sans', sans-serif;
+    border-bottom: 3px solid #748e59;
+    padding-bottom: 5px;
+    padding-right: 40px;
+}
+.important{
+    margin-right: 20px;
+width: 150%;
+}
+.about_campusen{
+    margin-right: 5px;
+width: 150%;
+}
+legend{
+    background-color: #1d71b8;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 5px;
+}
+fieldset ul li a{
+    text-decoration: none;
+    color: black;
+}
+.guide{
+    margin-top: 32px;
+}
+.guide h2{
+    font-size: 20px;
+    border-bottom: 4px solid #748e59;
+    padding-bottom: 10px;
+    margin-left: -8px;
+}
+.guide h2 span{
+    padding: 10px;
+    background: #575d5e;
+    color: white;
+    text-align: center;
+    border-radius: 5px 5px 0px 0px;
+}
+.info-bottom h2{
+    text-align: center;
+    background: #575d5e;
+    background-color: #575757;
+    padding: 10px 5px 10px 5px;
+    color: white;
+    border-radius: 5px 5px 0px 0px;
+}
+.info img{
+    margin-top: -17px;
+}
+.comprendre{
+    margin-right: 20px;
+}
+.suivre_guide{
+    margin-right: 5px;
+}
